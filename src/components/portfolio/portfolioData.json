@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "languages": "HTML CSS JS",
+        "title": "Lorem Ipsum",
+        "img_path": "portfolio1.jpg",
+        "demo_link": "#",
+        "github": "#",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+        "id": 2,
+        "languages": "React JS",
+        "title": "Lorem Ipsum",
+        "img_path": "portfolio2.jpg",
+        "demo_link": "#",
+        "github": "https://github.com/Shahzaibte24/educational-web",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+        "id": 3,
+        "languages": "HTML CSS JS",
+        "title": "Lorem Ipsum",
+        "img_path": "portfolio3.jpg",
+        "demo_link": "#",
+        "github": "#",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+        "id": 4,
+        "languages": "Wordpress Plugins",
+        "title": "Lorem Ipsum",
+        "img_path": "portfolio4.jpg",
+        "demo_link": "#",
+        "github": "#",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+        "id": 5,
+        "languages": "HTML CSS JS",
+        "title": "Lorem Ipsum",
+        "img_path": "portfolio5.png",
+        "demo_link": "#",
+        "github": "#",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+        "id": 6,
+        "languages": "Tailwind",
+        "title": "Lorem Ipsum",
+        "img_path": "portfolio6.jpg",
+        "demo_link": "#",
+        "github": "#",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    }
+]
